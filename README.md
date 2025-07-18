@@ -45,8 +45,8 @@ pkg install libjpeg-turbo libpng libwebp -y
 Clone atau download script bot kamu (contoh pakai GitHub):
 
 ```bash
-git clone https://github.com/NamaUser/NamaRepo
-cd NamaRepo
+git clone https://github.com/fathir-sthore/fathirv2.git
+cd fathirv2
 ```
 
 Kalau kamu punya file zip, kamu bisa unzip dan `cd` ke dalam folder-nya.
@@ -70,7 +70,7 @@ yarn install
 Edit file konfigurasi atau `.env` sesuai kebutuhan bot kamu. Biasanya token bot ditaruh di `.env` atau file `config.js` (oprasonal):
 
 ```bash
-nano config.js
+nano fathir.js
 ```
 
 Paste token bot kamu dari BotFather.
