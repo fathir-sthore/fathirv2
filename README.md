@@ -1,7 +1,7 @@
 # fathirv2
 Berikut deskripsi lengkap tentang **cara menjalankan script (sc) bot Telegram menggunakan Termux di Android**:
 
----
+
 
 ### 📱 Cara Menjalankan Script Bot Telegram di Termux Android
 
@@ -20,8 +20,17 @@ Buka Termux lalu ketik perintah berikut:
 
 ```bash
 pkg update && pkg upgrade -y
+```
+
+```bash
 pkg install nodejs -y
+```
+
+```bash
 pkg install git -y
+```
+
+```bash
 pkg install ffmpeg imagemagick -y
 ```
 
@@ -58,7 +67,7 @@ yarn install
 
 #### 🔑 Setting Token Bot
 
-Edit file konfigurasi atau `.env` sesuai kebutuhan bot kamu. Biasanya token bot ditaruh di `.env` atau file `config.js`:
+Edit file konfigurasi atau `.env` sesuai kebutuhan bot kamu. Biasanya token bot ditaruh di `.env` atau file `config.js` (oprasonal):
 
 ```bash
 nano config.js
@@ -71,14 +80,9 @@ Paste token bot kamu dari BotFather.
 Setelah semua siap, jalankan bot:
 
 ```bash
-node index.js
+node fathir.js
 ```
 
-Atau jika bot kamu menggunakan file utama lain:
-
-```bash
-node bot.js
-```
 
 Jika ingin tetap aktif meskipun keluar dari Termux, gunakan:
 
