@@ -2,10 +2,10 @@
 
 =======================================
 
-SC CREATED BY : ©RELLZ
-YT OWNER : https://youtube.com/@RELLZSILENT
-TELE OWNER : @rellzSilent
-CONTACT : 083135977026 / 085138527460
+SC CREATED BY : ©FATHIR 6
+YT OWNER : https://youtube.com/@fathirsthore
+TELE OWNER : @fathirsthore
+CONTACT : 62882003493812
 
 NOTE : Hargai Pengembang Dengan Cara Tidak Rename/Delete Credit Di Atas, Gunakan Semaumu Tapi Jangan Mengambil Karya Ku. Jika Ingin Merepost Kembali Tolong Tag Pengembang Dimanapun Itu Terima Kasih.
 
